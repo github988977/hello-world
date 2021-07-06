@@ -1,3 +1,5 @@
 # hello-world
 test
-world commit  to my repository
+
+
+This is a new line; // delete line 3 "world commit  to my repository"
